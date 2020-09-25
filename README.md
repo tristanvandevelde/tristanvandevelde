@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 
-### Most Comfortable in:
+### Most Confident in:
 
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 
 <!--
-### Semi-Confident in:
+### Comfortable in:
 
 Matlab, R, LaTeX
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
