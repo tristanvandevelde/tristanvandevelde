@@ -1,8 +1,8 @@
 ## Greetings 👋
 
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: tristan@tristanvandevelde.io
-- 🔭 I’m currently working on ***anomaly detection***
+- 😄  Pronouns: He/Him
+- 📫  How to reach me: tristan@tristanvandevelde.io
+- 🔭  I’m currently working on ***anomaly detection***
 
 
 <!--
