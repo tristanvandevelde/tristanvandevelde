@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
+[![](https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=C-Sharp&labelColor=239120&logoColor=ffffff)](https://docs.microsoft.com/en-us/dotnet/csharp)
+[![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.oracle.com/uk/java/technologies/javase-downloads.html)
+[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
+[![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
