@@ -1,4 +1,4 @@
-### Greetings 👋
+## Greetings 👋
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: tristan@tristanvandevelde.io
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My Tech Stack
+## My Tech Stack
 
-#### Comfortable in:
+### Comfortable in:
 
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
