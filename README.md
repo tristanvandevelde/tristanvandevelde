@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 ### Semi-Confident in:
 
 Matlab, R, LaTeX
+<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
