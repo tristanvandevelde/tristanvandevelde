@@ -2,7 +2,6 @@
 
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
-- 🔭  I’m currently working on ***anomaly detection***
 
 
 <!--
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
+- 🔭  I’m currently working on ***anomaly detection***
 - 💬 Ask me about 
 - ⚡ Fun fact: ...
 
