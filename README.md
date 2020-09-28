@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - ⚡ Fun fact: ...
--->
+
 
 ## My Tech Stack
 
@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 
-<!--
+C, C++, Java, Python, Bash
 ### Comfortable in:
 
-Matlab, R, LaTeX
+Matlab, R, LaTeX, Prolog, Haskell
 <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 -->
