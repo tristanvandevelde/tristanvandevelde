@@ -14,7 +14,6 @@
 
 ### Comfortable in:
 
-Matlab, R, LaTeX, Prolog, Haskell
 [![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&labelColor=008080&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/Octave-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://bash.org)
