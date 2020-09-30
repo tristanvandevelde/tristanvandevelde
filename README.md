@@ -4,7 +4,7 @@
 - 📫  How to reach me: tristan@tristanvandevelde.io
 
 ![](https://img.shields.io/badge/Python-message-3776AB?style=flat-square)
-![](https://img.shields.io/badge/C-message-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
+![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
 
 <!--
 **tristanvandevelde/tristanvandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
