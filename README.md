@@ -22,9 +22,11 @@
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&labelColor=008080&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/Octave_(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://www.mathworks.com/products/matlab.html)
 [![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://www.r-project.org/)
-<!--
+
+### Interested in:
+
 [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://bash.org)
--->
+Rust and Go
 
 
 
