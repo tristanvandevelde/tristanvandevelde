@@ -4,7 +4,7 @@
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
 - 🔭  I’m currently working on ***robust machine learning***
-- 🌱 I’m currently learning *how to balance my life*
+- 🌱 I’m currently learning ***building a lisp interpreter in C***
 
 
 ## Tech Stack
