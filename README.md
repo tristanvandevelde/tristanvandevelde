@@ -3,6 +3,9 @@
 -->
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
+- 🔭  I’m currently working on ***robust machine learning***
+- 🌱 I’m currently learning *how to balance my life*
+
 
 ## Tech Stack
 
@@ -29,10 +32,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 🔭  I’m currently working on ***anomaly detection***
 - 💬 Ask me about 
 - ⚡ Fun fact: ...
 
