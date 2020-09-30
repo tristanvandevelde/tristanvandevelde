@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&labelColor=008080&logoColor=ffffff)](https://bash.org)
-[![](https://img.shields.io/badge/Octave+(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://bash.org)
+[![](https://img.shields.io/badge/Octave_(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://bash.org)
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://bash.org)
 
