@@ -1,9 +1,10 @@
+<!--
 ## Greetings 👋
-
+-->
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
 
-## My Tech Stack
+## Tech Stack
 
 ### Most Confident in:
 
