@@ -3,7 +3,7 @@
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
 
-
+![](https://img.shields.io/endpoint?url=https://www.python.org/&?style=plastic&logo=appveyor)
 <!--
 **tristanvandevelde/tristanvandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
