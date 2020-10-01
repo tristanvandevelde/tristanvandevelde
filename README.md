@@ -25,11 +25,9 @@
 
 ### Interested in:
 
-[![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://bash.org)
-Rust and Go
-
-
-
+[![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://haskell.org)
+[![](https://img.shields.io/badge/Go-00AAD8?style=flat-square&logo=Go&labelColor=00AAD8&logoColor=ffffff)](https://rust-lang.org)
+[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&labelColor=000000&logoColor=ffffff)](https://rust-lang.org)
 
 
 
