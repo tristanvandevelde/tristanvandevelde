@@ -3,7 +3,9 @@
 -->
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
-- 🔭  I’m currently working on ***robust machine learning***
+- 🔭  I’m currently working on ***a lisp interpreter in C***
+- 🌱 I’m currently learning about ***robust machine learning***
+
 
 
 ## Tech Stack
@@ -34,21 +36,6 @@
 [![](https://img.shields.io/badge/Go-00AAD8?style=flat-square&logo=Go&labelColor=00AAD8&logoColor=ffffff)](https://rust-lang.org)
 [![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&labelColor=000000&logoColor=ffffff)](https://rust-lang.org)
 
-
-
-
-<!--
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
-
-**tristanvandevelde/tristanvandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 🌱 I’m currently learning ***algori***
-- ⚡ Fun fact: ...
 
 
 
