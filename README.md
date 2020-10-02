@@ -19,7 +19,7 @@
 <!-- C/C++, Haskell, Java, Python -->
 
 
-### Comfortable in:
+### Comfortable with:
 
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
@@ -30,7 +30,7 @@
 
 <!-- Bash, Latex, Matlab, Prolog, R -->
 
-### Interested in:
+### Interested to learn about:
 
 [![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://haskell.org)
 [![](https://img.shields.io/badge/Go-00AAD8?style=flat-square&logo=Go&labelColor=00AAD8&logoColor=ffffff)](https://rust-lang.org)
