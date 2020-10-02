@@ -14,6 +14,7 @@
 
 
 [![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)](http://www.cplusplus.com/)
+[![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://haskell.org)
 [![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
 
 <!-- C/C++, Haskell, Java, Python -->
@@ -27,15 +28,5 @@
 [![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&labelColor=008080&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/Octave_(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://www.mathworks.com/products/matlab.html)
 [![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://www.r-project.org/)
-
-<!-- Bash, Latex, Matlab, Prolog, R -->
-
-### Interested to learn about:
-
-[![](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=Haskell&labelColor=5D4F85&logoColor=ffffff)](https://haskell.org)
-[![](https://img.shields.io/badge/Go-00AAD8?style=flat-square&logo=Go&labelColor=00AAD8&logoColor=ffffff)](https://rust-lang.org)
-[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=Rust&labelColor=000000&logoColor=ffffff)](https://rust-lang.org)
-
-
 
 
