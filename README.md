@@ -24,7 +24,6 @@
 [![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&labelColor=008080&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/Octave_(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://www.mathworks.com/products/matlab.html)
 [![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://www.r-project.org/)
 
