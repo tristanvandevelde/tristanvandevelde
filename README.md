@@ -1,30 +1,7 @@
-<!--
-## Greetings 👋
--->
+
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tristan@tristanvandevelde.io
 - 📗 I work as a lecturer for Computer Science & Statistics
 - 📚 I'm currenly learning about [***robustness measures for VAEs***](https://arxiv.org/abs/2007.07365) (those things are awesome!)
-
-
-
-## Tech Stack
-
-### Most Confident in:
-
-
-[![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)](http://www.cplusplus.com/)
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https://python.org)
-
-<!-- C/C++, Haskell, Java, Python -->
-
-
-### Comfortable with:
-
-[![](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&labelColor=4EAA25&logoColor=ffffff)](https://www.gnu.org/software/bash/)
-[![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
-[![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&labelColor=007396&logoColor=ffffff)](https://www.java.com/en/)
-[![](https://img.shields.io/badge/Octave_(Matlab)-0790C0?style=flat-square&logo=Octave&labelColor=0790C0&logoColor=ffffff)](https://www.mathworks.com/products/matlab.html)
-[![](https://img.shields.io/badge/R-75AADB?style=flat-square&logo=RStudio&labelColor=75AADB&logoColor=ffffff)](https://www.r-project.org/)
 
 
