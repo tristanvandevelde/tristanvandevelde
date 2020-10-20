@@ -8,5 +8,5 @@
 
 + Comfortable in: C++ & Python
 + Experience with: C, Java, Matlab, R
-+ Tools: Bash, Git, Latex, Linux, Travis
++ Tools: Bash, Docker, Git, Latex, Linux, Travis
 
