@@ -6,23 +6,7 @@
 
 ## Tech Stack
 
-### Comfortable in:
-
-![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&labelColor=A8B9CC&logoColor=ffffff)
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&labelColor=00599C&logoColor=ffffff)
-[![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&labelColor=3776AB&logoColor=ffffff)](https:/python.org)
-
++ Comfortable in: C, C++ & Python
 + Experience with: Matlab, R, Java & Javascript
 + Tools: Bash, Git, Latex
 
-<table>
-<tr>
- <td valign = "top" width="50%">
-  <h3> Title </h3>
-  something something
- </td>
- <td valign="top" width="50%">
-  something something
- </td>
-  </tr>
-  </table>
