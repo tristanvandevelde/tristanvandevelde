@@ -18,6 +18,7 @@
 <table>
 <tr>
  <td valign = "top" width="50%">
+  <h3> Title </h3>
   something something
  </td>
  <td valign="top" width="50%">
