@@ -18,8 +18,10 @@
 <table>
 <tr>
  <td valign = "top" width="50%">
+  something something
  </td>
  <td valign="top" width="50%">
-   </td?
+  something something
+ </td>
   </tr>
   </table>
