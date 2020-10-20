@@ -7,6 +7,6 @@
 ## Tech Stack
 
 + Comfortable in: C++ & Python
-+ Experience with: C, Java, Javascript, Matlab, R
++ Experience with: C, Java, Matlab, R
 + Tools: Bash, Git, Latex
 
