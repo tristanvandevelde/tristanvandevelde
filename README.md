@@ -1,8 +1,8 @@
 
-+ 😄    Pronouns: He/Him
-+ 📫    How to reach me: tristan@tristanvandevelde.io
-+ 💼    Working as a lecturer for Computer Science & Statistics
-+ 📚    Currenly learning about ***robust machine learning*** 
++ 😄 &nbsp; Pronouns: He/Him
++ 📫 &nbsp; How to reach me: tristan@tristanvandevelde.io
++ 💼 &nbsp; Working as a lecturer for Computer Science & Statistics
++ 📚 &nbsp; Currenly learning about ***robust machine learning*** 
 
 ## Tech Stack
 
