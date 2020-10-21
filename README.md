@@ -1,8 +1,9 @@
 
 + 😄 &nbsp; Pronouns: He/Him
 + 📫 &nbsp; How to reach me: tristan@tristanvandevelde.io
-+ 💼 &nbsp; Working as a lecturer for Computer Science & Statistics
-+ 📚 &nbsp; Currenly learning about ***robust machine learning*** 
++ 💼 &nbsp; Working as: Lecturer Computer Science & Statistics
++ 📚 &nbsp; Learning about ***robust machine learning*** 
++ :computer:
 
 ## Tech Stack
 
