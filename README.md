@@ -3,7 +3,7 @@
 + :mailbox_with_mail: &nbsp; How to reach me: tristan@tristanvandevelde.io
 + :briefcase: &nbsp; Working as: Lecturer Computer Science & Statistics
 + :books: &nbsp; Learning about: ***robust machine learning*** 
-+ :computer: &nbsp; Coding:  Extending R with C++.
++ :computer: &nbsp; Coding
 
 ## Tech Stack
 
