@@ -2,7 +2,7 @@
 + :smiley: &nbsp; Pronouns: He/Him
 + :mailbox_with_mail: &nbsp; How to reach me: tristan@tristanvandevelde.io
 + :briefcase: &nbsp; Working as: Lecturer Computer Science & Statistics
-+ :books: &nbsp; Interested in: ***robustness*** 
++ :books: &nbsp; Interested in: ***Computational Statistics & Uncertainty*** 
 + :computer: &nbsp; Coding
 
 ## Tech Stack
