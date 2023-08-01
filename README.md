@@ -3,16 +3,14 @@
 
 - 🎓 I studied Mathematics, Economics, Statistics and Data Science
 - 👨‍💻 Working as a Quant (Risk Model Development) for Credit Stress Testing
-- 📈 Love Quantitative Finance
+- 📈 Quantitative Finance
 - 📍 Located in Belgium
 
 
 <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
-<a>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">  
-</a>
+
 
 <!--
 **tristanvandevelde/tristanvandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,4 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<a>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">  
+</a>
+
 -->
