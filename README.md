@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🎓 I studied Mathematics, Economics, Statistics and Data Science
+- 👨‍💻 Working as a Quant (Risk Model Development) for Credit Stress Testing
+- 📈 Love Quantitative Finance
+- 📍 Located in Belgium
+
 <!--
 **tristanvandevelde/tristanvandevelde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
