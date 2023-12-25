@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-- 🎓 I studied Mathematics, Economics, Statistics and Data Science
-- 👨‍💻 Working as a Quant (Risk Model Development) in the Fixed Income space
-    * Credit stress testing
-    * Economic Scenario Generation
+( 🎓 I studied Mathematics, Economics, Statistics and Data Science
+* 👨‍💻 Working as a Quant (Risk Model Development) in the Fixed Income space
+    * Stress Testing:
+    * Economic Scenario Generation: 
 - 📈 Quantitative Finance
 - 📍 Located in Belgium
 
