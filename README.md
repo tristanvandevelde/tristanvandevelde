@@ -2,7 +2,8 @@
 
 
 - 🎓 I studied Mathematics, Economics, Statistics and Data Science
-- 👨‍💻 Working as a Quant (Risk Model Development) for Credit Stress Testing
+- 👨‍💻 Working as a Quant (Risk Model Development) in the Fixed Income space
+    -> test
 - 📈 Quantitative Finance
 - 📍 Located in Belgium
 
