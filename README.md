@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 
-( 🎓 I studied Mathematics, Economics, Statistics and Data Science
+* 🎓 I studied Mathematics, Economics, Statistics and Data Science
 * 👨‍💻 Working as a Quant (Risk Model Development) in the Fixed Income space
-    * Stress Testing:
-    * Economic Scenario Generation: 
-- 📈 Quantitative Finance
-- 📍 Located in Belgium
+    * Stress Testing: Developing integrated portfolio stress testing library.
+    * Economic Scenario Generation: Interest rate modelling and scenario simulation.
+* 📈 Quantitative Finance
+* 📍 Located in Belgium
 
 
 
@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a>
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">  
-</a>
+
 
 -->
